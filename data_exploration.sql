@@ -1,4 +1,4 @@
--- Checkin columns' data type
+-- Checking columns' data type
 SELECT
         COLUMN_NAME,
         DATA_TYPE
